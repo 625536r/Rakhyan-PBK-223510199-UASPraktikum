@@ -26,7 +26,6 @@
       <q-page-container>
         <q-page>
           <router-view></router-view>
-          <Weather /> 
         </q-page>
       </q-page-container>
 
